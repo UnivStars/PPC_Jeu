@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(42, 119, 227);
+}
+.ButtonPierre{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgb(147, 60, 235);
+    margin: 4%;
+    font-size: 150%;
+    border-color: blueviolet;
+}
+.ButtonFeuille{
+    background-color: darkturquoise;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgb(48, 78, 226);
+    margin: 2%;
+    margin-right: 5% ;
+    font-size: 150%;
+}
+.ButtonCiseaux{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgb(59, 135, 241);
+    margin: 2%;
+    margin-left: 5% ;
+    font-size: 150%;
+}
+.DivPierre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top : 5%;
+}
+.DivFeuilleCiseaux{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resultat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 200%;
+    background-color: burlywood;
+    border-radius:50px;
+    margin-top: 3%;
+}
+
+
+
+/*
+    display: flex;
+    justify-content: center;
+    align-items: center;
+*/
