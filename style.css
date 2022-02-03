@@ -55,6 +55,31 @@ body{
 
 
 
+.changement{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 200%;
+    background-color: burlywood;
+    border-radius:50px;
+    margin-top: 3%;
+}
+
+
+
+.Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200%;
+    border-radius:50px;
+    margin-top: 20%;
+}
+
+
+
+
 /*
     display: flex;
     justify-content: center;
