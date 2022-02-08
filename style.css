@@ -6,27 +6,26 @@ body{
     width: 100px;
     height: 100px;
     border-radius: 50px;
-    background: rgb(147, 60, 235);
+    background: rgb(228, 80, 12);
     margin: 4%;
     font-size: 150%;
     border-color: blueviolet;
 }
 .ButtonFeuille{
-    background-color: darkturquoise;
     width: 100px;
     height: 100px;
     border-radius: 50px;
-    background: rgb(48, 78, 226);
+    background: rgba(248, 22, 22, 0.767);
     margin: 2%;
     margin-right: 5% ;
     font-size: 150%;
 }
 .ButtonCiseaux{
-    background-color: lightseagreen;
+
     width: 100px;
     height: 100px;
     border-radius: 50px;
-    background: rgb(59, 135, 241);
+    background: rgb(255, 0, 85);
     margin: 2%;
     margin-left: 5% ;
     font-size: 150%;
@@ -53,8 +52,6 @@ body{
     margin-top: 3%;
 }
 
-
-
 .changement{
     display: flex;
     justify-content: center;
@@ -67,7 +64,6 @@ body{
 }
 
 
-
 .Form{
     display: flex;
     justify-content: center;
@@ -78,10 +74,3 @@ body{
 }
 
 
-
-
-/*
-    display: flex;
-    justify-content: center;
-    align-items: center;
-*/
